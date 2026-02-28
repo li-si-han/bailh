@@ -75,8 +75,9 @@
 
 <br>
 
-## 💻 Technical Skills
+## 💻 Technical Skills 
 ### 🛠️ Programming Languages
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++">
